@@ -2,7 +2,6 @@ from cgi import test
 from difflib import restore
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
