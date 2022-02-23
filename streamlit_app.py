@@ -25,7 +25,7 @@ st.sidebar.write('---')
 st.sidebar.subheader("A tensorflowLite model for fruit classification made to be used on microcontrollers like Arduino Nano BLE33 or ESP32 and trained on [Fruits_360](https://www.kaggle.com/moltean/fruits) dataset.")
 st.sidebar.subheader(" You can check out source code of this website [here](https://github.com/ujjwal404/fruitClassificationTFLite).")
 st.sidebar.write('---')
-st.sidebar.markdown("Made by *[@UjjwalKadam](https://github.com/ujjwal404), [@TarushBajaj](https://github.com/Tarushfx)* and *[@Ujjwal](https://github.com/ujjwal)*")
+st.sidebar.markdown("Made by *[@UjjwalKadam](https://github.com/ujjwal404), [@TarushBajaj](https://github.com/Tarushfx)* and *[@Ujjwal](https://github.com/ujjwal2604)*")
 
 
 
