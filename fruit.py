@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.keras.models import *
 import numpy as np
