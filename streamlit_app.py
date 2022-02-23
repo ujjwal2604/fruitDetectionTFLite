@@ -45,8 +45,6 @@ def main():
             st.write("Invalid command, please upload an image")
         else:
             with st.spinner('Model working....'):
-                 plt.imshow(image)
-                 plt.axis("off")
                  predictions = predict(image)
                  time.sleep(1)
                  st.success('Classified')
