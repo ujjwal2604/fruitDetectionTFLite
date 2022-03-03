@@ -97,6 +97,6 @@ class Fruit:
         interpreter.invoke()
         output_data = interpreter.get_tensor(output_details[0]['index'])
         result_list = output_data[0].tolist()
-        result_class = self.label[result_list.index(max(result_list))]
-        return result_class
+        result__final_class = self.label[result_list.index(max(result_list))]
+        return result__final_class
         
